@@ -3,6 +3,8 @@
  Add the first column: Within the newly created row, add the HTML elements that represent the content of the first column.`
 We have also included one `frame` elements within the `frameset`. The first `frame` has a `src` attribute set to "bluediamond.html.
 Add the second column: Similarly, within the same row, add the HTML elements that represent the content of the second column.
-We have also included one `frame` elements within the `frameset`. The second `frame` has a `src` attribute set to ".html.
+We have also included one `frame` elements within the `frameset`. The second `frame` has a `src` attribute set to "form.html.
+The <noframes> tag is the backup for those browsers that does not support frames. This tag can contains all the element that can be placed in <body> tag. 
+
 
 
