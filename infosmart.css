@@ -1,0 +1,63 @@
+div
+{
+  
+   border-style:solid;
+   border-color:white;
+   background-image:url('pxfuel (1).jpg');
+   background-attachment:fixed;
+    
+
+   
+
+}
+
+body
+{
+  
+  
+  color:white;
+  
+  
+}
+.ti
+{
+ 
+ 
+  color:white;
+  background-color:black;
+ 
+
+ 
+}
+.tp
+{ 
+  
+  
+  
+  color:white;
+  font-size:0.2in;
+  font-family:monospace;
+ 
+
+  
+  
+}
+ .name
+   {
+     color:white;
+     font-size:0.2in;
+     font-family:monospace;
+     
+     
+}
+.i
+{
+   background-image:url('3.jpg');
+  background-attachment:fixed;
+}
+.swe
+{
+  background-image:url('pxfuel.jpg');
+  border:solid;
+  font-family:monospace;
+}
