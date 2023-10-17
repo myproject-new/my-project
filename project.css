@@ -1,0 +1,23 @@
+table
+  {
+    border:thin solid white;
+    position:absolute;
+    top:150px;
+    left:500px;
+    color:white;
+    cursor:hand;
+    font-style:italic;
+    font-variant:small-caps;
+    font-size:large;
+    font-family:serif;
+    font-weight:bolder;
+   
+   background-repeat:no-repeat;
+    
+   }
+ body
+   {
+    background-image:url('pxfuel (1).jpg');
+    background-size:100%;
+    background-repeat:no-repeat;
+}
